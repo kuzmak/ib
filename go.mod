@@ -1,3 +1,3 @@
-module github.com/timpalpant/ib
+module github.com/kuzmak/ib
 
 go 1.18
